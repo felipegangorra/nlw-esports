@@ -9,6 +9,8 @@
 ## Projeto 💻
 Projeto desenvolvido na semana NLW eSports, o qual é voltado para comunidade game. A aplicação é uma interface animada e interativa a qual é possível compartilhar seus principais jogos e influenciadores da área dos games.
 
+Acesse o projeto [aqui](https://gangorra.github.io/NLW-eSports/)
+
 ## Tecnologias 🖱️
 
 1. HTML
