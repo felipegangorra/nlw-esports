@@ -13,8 +13,8 @@ Acesse o projeto [aqui](https://gangorra.github.io/NLW-eSports/)
 
 ## Tecnologias 🖱️
 
-1. HTML
-2. CSS
+➤ HTML <br>
+➤ CSS
 
 ------------------------------
 Este projeto foi desenvolvido durante a [Next Level Week](https://lp.rocketseat.com.br/nlw), realizada pela [Rocketseat](https://www.rocketseat.com.br) 🚀
