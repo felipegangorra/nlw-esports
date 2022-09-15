@@ -122,7 +122,7 @@ main section{
     animation: fromBottom .7s backwards;
 }
 
-main section:nth-child(1){
+main section:nth-child(1){      /*no main, em section, número do filho*/
     animation-delay: 0;
 }
 
