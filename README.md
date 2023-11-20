@@ -4,7 +4,7 @@
   <img src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg"/>
 </p>
 
-![preview](https://media.discordapp.net/attachments/1091746940225593467/1091747262754992208/Captura_de_tela_de_2023-03-31_21-53-27.png?width=892&height=429)
+![preview](img/nlw_game.png)
 
 > Trilha Explorer
 
